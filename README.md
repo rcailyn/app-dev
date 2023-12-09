@@ -10,6 +10,12 @@ My first repository
     A traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life.
 
 **Favorite series**
+| Series | Korean Drama|
+|--------|----------------|
+|Aspring singer| *Castaway Diva* |
+|Fifteen years after being stranded on a remote island | An aspiring singer reenters society, stopping at nothing to pursue her dream of becoming a diva.|
+
+
 1. *Castaway Diva*
   : Fifteen years after being stranded on a remote island, an aspiring singer reenters society, stopping at nothing to pursue her dream of becoming a diva.
 2. *Twingkling Watermelon*
