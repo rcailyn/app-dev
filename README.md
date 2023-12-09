@@ -14,7 +14,7 @@ My first repository
 
 **Favorite series**
 1. *Castaway Diva*
-  : Fifteen years after being stranded on a remote island, ==an aspiring singer reenters society, stopping at nothing to pursue her dream of becoming a diva==.
+  : Fifteen years after being stranded on a remote island, ==an aspiring singer== reenters society, stopping at nothing to pursue her dream of becoming a diva.
 2. *Twingkling Watermelon*
   : Twinkling Watermelon tells the ==story of a CODA boy with a natural talent for music, who travels back in time to 1995==. He joins a band with his childhood father and forms a band called Watermelon Sugar with the suspicious youths he meets there, and communicates with them through music.
 3. *Perfect Marriage Revenge* 
