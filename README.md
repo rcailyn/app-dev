@@ -9,7 +9,7 @@ My first repository
 3. [Smile](https://www.imdb.com/title/tt15474916/)
     A traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life.
 
-**Favorite series**
+**Favorite series:**
 | Series | Korean Drama|
 |--------|----------------|
 |Aspring singer| *Castaway Diva* |
